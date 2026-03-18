@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "nocrystalbounce",
+  "version": "${version}",
+  "name": "NoCrystalBounce",
+  "description": "No Crystal Bounce In The Hotbar",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/nocrystalbounce/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.Cooltechno.nocrystalbounce.client.NocrystalbounceClient"
+    ],
+    "main": [
+      "de.Cooltechno.nocrystalbounce.Nocrystalbounce"
+    ]
+  },
+  "mixins": [
+    "nocrystalbounce.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

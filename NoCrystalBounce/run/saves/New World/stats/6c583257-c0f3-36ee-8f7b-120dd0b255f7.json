@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:end_crystal": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 820,
+      "minecraft:time_since_rest": 648,
+      "minecraft:walk_one_cm": 2054,
+      "minecraft:total_world_time": 648,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 5190,
+      "minecraft:play_time": 648,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 648,
+      "minecraft:drop": 1
+    },
+    "minecraft:used": {
+      "minecraft:end_crystal": 10,
+      "minecraft:obsidian": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:end_crystal": 1
+    }
+  },
+  "DataVersion": 4671
+}
