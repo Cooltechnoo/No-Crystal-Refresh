@@ -2,7 +2,7 @@
 
 A lightweight, high-performance client-side optimization mod that prevents End Crystals from randomly refreshing or resetting their placement animation in your hotbar. Keep your PvP fluid, predictable, and stutter-free.
 
-![Minecraft version](https://img.shields.io/badge/Minecraft-1.21.x-blue?style=for-the-badge&logo=minecraft)
+![Minecraft version](https://img.shields.io/badge/Minecraft-1.21.11-blue?style=for-the-badge&logo=minecraft)
 ![Loader](https://img.shields.io/badge/Loader-Fabric-orange?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Category-PvP_Fix-purple?style=for-the-badge)
 
